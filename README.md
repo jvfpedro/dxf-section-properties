@@ -1,4 +1,4 @@
-# DXF Section Properties (Rasterization Method)
+# dxf-section-properties
 
 This repository contains a Python tool developed to calculate the geometric properties of complex cross-sections imported from DXF files.
 
@@ -52,6 +52,10 @@ The script works in two main stages:
 - **Use Case:** this method is particularly useful for arbitrary or organic shapes where standard analytical formulas are difficult to apply.
 
 ## Author
-João Vitor Ferreira Pedro Engineering Student GitHub: https://github.com/jvfpedro
+João Vitor Ferreira Pedro
+[Civil Engineer - UFSC]
+[https://github.com/jvfpedro] [jvfpedro@gmail.com]
 
-Daniel Tavares dos Anjos Engineering Student at UFSC GitHub: https://github.com/danieltanjos
+Daniel Tavares dos Anjos
+[collaborator]
+[https://github.com/danieltanjos]
